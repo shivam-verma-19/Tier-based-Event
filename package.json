@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^7.10.0",
-    "@supabase/supabase-js": "^2.118.0",
+    "@supabase/supabase-js": "^2.119.2",
     "@types/react": "^19.3.0",
     "react": "^19.3.1"
   },
